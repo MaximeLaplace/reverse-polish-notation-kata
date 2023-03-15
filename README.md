@@ -1,9 +1,9 @@
-# js-kata-starter
+# reverse-polish-notation-kata
 
-Starter project for kata (Node, TypeScript, Jest)
+Implementation of the Reverse Polish Notation (RPN) in TDD, with error handling using a monad!<br>
+See definition of RPN : https://en.wikipedia.org/wiki/Reverse_Polish_notation
 
-## Getting started
+## Running the project
 
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+- Install dependencies (`npm i`)
+- Launch tests (`npm test`)
